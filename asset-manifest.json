@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netlix-home-page-clone/static/css/main.9245027d.css",
+    "main.js": "/netlix-home-page-clone/static/js/main.1d80e8bf.js",
+    "static/media/Netflix.png": "/netlix-home-page-clone/static/media/Netflix.6232270edfa29226efa0.png",
+    "index.html": "/netlix-home-page-clone/index.html",
+    "main.9245027d.css.map": "/netlix-home-page-clone/static/css/main.9245027d.css.map",
+    "main.1d80e8bf.js.map": "/netlix-home-page-clone/static/js/main.1d80e8bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9245027d.css",
+    "static/js/main.1d80e8bf.js"
+  ]
+}
